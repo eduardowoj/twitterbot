@@ -172,6 +172,8 @@ for nome in candidatos:
     my_demo_list = []
     with open('tweets_%s.txt' % nome, encoding='utf-8') as json_file:  
         all_data = json.load(json_file)
+        # Zera o dataframe
+        my_demo_list = []
         for each_dictionary in all_data:
             tweet_id = each_dictionary['id']
             whole_tweet = each_dictionary['text']
@@ -183,7 +185,8 @@ for nome in candidatos:
             source = only_device
             coordinates = each_dictionary['coordinates']
 
-            my_demo_list.append({'tweet_id': str(tweet_id),
+            my_demo_list.append({'name': str(nome),
+                                 'tweet_id': str(tweet_id),
                                  'favorite_count': int(favorite_count),
                                  'url': url,
                                  'created_at': created_at,
@@ -192,11 +195,11 @@ for nome in candidatos:
                                  'coordinates': coordinates,
                                  })
             # Salva no dataframe apropriado
-            tweet_json = pd.DataFrame(my_demo_list, columns = ['tweet_id', 'favorite_count', 
+            tweet_json = pd.DataFrame(my_demo_list, columns = ['name','tweet_id', 'favorite_count', 
                                                                'created_at',
                                                                'text', 'coordinates'])
-    
-    dict_nomes[nome] = tweet_json.copy(deep=True)
+            
+    #dict_nomes[nome] = tweet_json.copy(deep=True)
 
 
 
