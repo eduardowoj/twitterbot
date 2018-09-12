@@ -140,8 +140,8 @@ auth.set_access_token(access_token,access_token_secret)
 api = tweepy.API(auth)
 
 # Vamos agora criar uma lista com alguns nomes de candidatos
-candidatos = ['Bolsonaro', 'Amoedo']
-dict_nomes = dict(enumerate(candidatos))
+candidatos = ['Bolsonaro','Amoedo','Haddad','Ciro','Alckmin','Marina','Boulos','Meirelles','Daciolo']
+dict_nomes = {}
 
 # E uma variável com o número de tweets que queremos
 numTweets = 25
@@ -149,8 +149,6 @@ numTweets = 25
 # O loop que pega os tweets e cria dataframes é um tanto complexo, mas funciona
 # O objetivo é construir um dataframe com todas as informações do json, já
 # que isso me dará uma flexibilidade muito maior para lidar com os dados
-
-lista_dicts = []
 
 for nome in candidatos:
     print(nome)
@@ -162,6 +160,7 @@ for nome in candidatos:
     tweets = api.search(query, count=numTweets)    
     # Cria um dataframe para cada um
     #dict_nomes[nome] = pd.DataFrame()   
+    lista_dicts = []
     for tweet in tweets:
         lista_dicts.append(tweet._json)
     # Para cada candidato, cria um arquivo de texto e faz o dump
@@ -184,11 +183,9 @@ for nome in candidatos:
             only_device = whole_source[whole_source.find('rel="nofollow">') + 15:-4]
             source = only_device
             coordinates = each_dictionary['coordinates']
-
             my_demo_list.append({'name': str(nome),
                                  'tweet_id': str(tweet_id),
                                  'favorite_count': int(favorite_count),
-                                 'url': url,
                                  'created_at': created_at,
                                  'source': source,
                                  'text': str(whole_tweet),
@@ -198,9 +195,6 @@ for nome in candidatos:
             tweet_json = pd.DataFrame(my_demo_list, columns = ['name','tweet_id', 'favorite_count', 
                                                                'created_at',
                                                                'text', 'coordinates'])
-            
-    #dict_nomes[nome] = tweet_json.copy(deep=True)
-
-
+    dict_nomes[nome] = tweet_json.copy(deep=True)
 
 

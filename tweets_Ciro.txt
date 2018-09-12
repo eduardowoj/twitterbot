@@ -1,0 +1,2836 @@
+[
+    {
+        "created_at": "Wed Sep 12 19:29:44 +0000 2018",
+        "id": 1039959262758424576,
+        "id_str": "1039959262758424576",
+        "text": "man\u00e9 lula\nfoda se bolsonaro\nciro gomes \u00e9 o caralho",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 767493066559217664,
+            "id_str": "767493066559217664",
+            "name": "Casa do Caralho Produ\u00e7\u00f5es",
+            "screen_name": "affonsoskide",
+            "location": "",
+            "description": "Press Start Button",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 186,
+            "friends_count": 1187,
+            "listed_count": 0,
+            "created_at": "Sun Aug 21 22:46:21 +0000 2016",
+            "favourites_count": 5677,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3763,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021803832500781057/e_K4uXGF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021803832500781057/e_K4uXGF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/767493066559217664/1483926213",
+            "profile_link_color": "133812",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:43 +0000 2018",
+        "id": 1039959260208218114,
+        "id_str": "1039959260208218114",
+        "text": "@alexandregarcia PESQUISA NO TWITTER\nJ\u00e1 q Ibope e Datafolha n\u00e3o me entrevistaram e talvez nem a vc vamos fazer uma\u2026 https://t.co/itJA6qOYBp",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "alexandregarcia",
+                    "name": "Alexandre Garcia",
+                    "id": 727130698021261313,
+                    "id_str": "727130698021261313",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/itJA6qOYBp",
+                    "expanded_url": "https://twitter.com/i/web/status/1039959260208218114",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1039673522300354560,
+        "in_reply_to_status_id_str": "1039673522300354560",
+        "in_reply_to_user_id": 727130698021261313,
+        "in_reply_to_user_id_str": "727130698021261313",
+        "in_reply_to_screen_name": "alexandregarcia",
+        "user": {
+            "id": 199938245,
+            "id_str": "199938245",
+            "name": "anderson tavares",
+            "screen_name": "ASTtavares",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 76,
+            "friends_count": 214,
+            "listed_count": 1,
+            "created_at": "Fri Oct 08 02:15:01 +0000 2010",
+            "favourites_count": 255,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 361,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/745589231662338048/A5bbsccE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/745589231662338048/A5bbsccE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/199938245/1519996633",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:43 +0000 2018",
+        "id": 1039959258421518336,
+        "id_str": "1039959258421518336",
+        "text": "@Graziellacsc S\u00f3 rindo... O Ciro Gomes disse: \"o papel de Patr\u00edcia pilar \u00e9 dormir comigo...\"\nSeria ela uma mulher o\u2026 https://t.co/ChvROvVnmL",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Graziellacsc",
+                    "name": "Graziella Couto",
+                    "id": 854857583483641856,
+                    "id_str": "854857583483641856",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ChvROvVnmL",
+                    "expanded_url": "https://twitter.com/i/web/status/1039959258421518336",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1039937929597079554,
+        "in_reply_to_status_id_str": "1039937929597079554",
+        "in_reply_to_user_id": 854857583483641856,
+        "in_reply_to_user_id_str": "854857583483641856",
+        "in_reply_to_screen_name": "Graziellacsc",
+        "user": {
+            "id": 1016030097214726144,
+            "id_str": "1016030097214726144",
+            "name": "Lipesuarez",
+            "screen_name": "lipesuarez",
+            "location": "Rio de janeiro",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10,
+            "friends_count": 69,
+            "listed_count": 0,
+            "created_at": "Sun Jul 08 18:43:46 +0000 2018",
+            "favourites_count": 60,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 92,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1016033609826930688/gUGtf3TZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016033609826930688/gUGtf3TZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1016030097214726144/1531076194",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:43 +0000 2018",
+        "id": 1039959257364541441,
+        "id_str": "1039959257364541441",
+        "text": "@dan_sfc @Keve_sfc Ciro vai trazer o Molina de volta",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "dan_sfc",
+                    "name": "Daniel Vicente",
+                    "id": 906324752276619265,
+                    "id_str": "906324752276619265",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "Keve_sfc",
+                    "name": "kev",
+                    "id": 1915561670,
+                    "id_str": "1915561670",
+                    "indices": [
+                        9,
+                        18
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1039956935230021637,
+        "in_reply_to_status_id_str": "1039956935230021637",
+        "in_reply_to_user_id": 906324752276619265,
+        "in_reply_to_user_id_str": "906324752276619265",
+        "in_reply_to_screen_name": "dan_sfc",
+        "user": {
+            "id": 38322132,
+            "id_str": "38322132",
+            "name": "murillo moret",
+            "screen_name": "moret_",
+            "location": "S\u00e3o Paulo",
+            "description": "Jornalista na torcida por Juventus e Nuggets. N\u00e3o sigo as regras da Fifa nem gosto de filmes com Adam Sandler.",
+            "url": "https://t.co/VhuYZemXdD",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/VhuYZemXdD",
+                            "expanded_url": "http://espnfc.espn.uol.com.br/juventus/gazzebra",
+                            "display_url": "espnfc.espn.uol.com.br/juventus/gazze\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5160,
+            "friends_count": 740,
+            "listed_count": 194,
+            "created_at": "Thu May 07 00:39:49 +0000 2009",
+            "favourites_count": 2323,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 128008,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/960658544268922880/lo3MGj2G_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/960658544268922880/lo3MGj2G_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38322132/1514784450",
+            "profile_link_color": "808080",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:42 +0000 2018",
+        "id": 1039959254050975744,
+        "id_str": "1039959254050975744",
+        "text": "@professorigor Eleitor do Bolsonaro n\u00e3o come porcaria , quem come essas merdas \u00e9 gente analfabeto que vota em Lula , Dilma Ciro ...",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "professorigor",
+                    "name": "Igor Guedes \ud83c\udde7\ud83c\uddf7",
+                    "id": 52838600,
+                    "id_str": "52838600",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1039922384000770048,
+        "in_reply_to_status_id_str": "1039922384000770048",
+        "in_reply_to_user_id": 52838600,
+        "in_reply_to_user_id_str": "52838600",
+        "in_reply_to_screen_name": "professorigor",
+        "user": {
+            "id": 568272583,
+            "id_str": "568272583",
+            "name": "fabio oliveira",
+            "screen_name": "ffabiomac",
+            "location": "Rio de Janeiro, Brasil",
+            "description": "trabalhador e honesto acima de tudo , n\u00e3o sou anti pt sou anti todos os corruptos quero todos como Lula esta , em cana , Bolsonaro 2018 o resto \u00e9 resto ...",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 526,
+            "friends_count": 1099,
+            "listed_count": 5,
+            "created_at": "Tue May 01 14:53:10 +0000 2012",
+            "favourites_count": 27108,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 16633,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1011547284042141696/7ZqjkPnx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011547284042141696/7ZqjkPnx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/568272583/1457213818",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:41 +0000 2018",
+        "id": 1039959251425349633,
+        "id_str": "1039959251425349633",
+        "text": "Gostei do artigo, mas s\u00f3 acho que errou ao comparar o Ciro com Trump, est\u00e1 mais para o Morales da Bol\u00edvia https://t.co/rV6n68sl5m",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/rV6n68sl5m",
+                    "expanded_url": "https://www.gazetadopovo.com.br/colunistas/pedro-menezes/ciro-e-perigosamente-parecido-com-dilma-e-trump/",
+                    "display_url": "gazetadopovo.com.br/colunistas/ped\u2026",
+                    "indices": [
+                        106,
+                        129
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 36823572,
+            "id_str": "36823572",
+            "name": "mateuss",
+            "screen_name": "mateus_emanuel",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 921,
+            "friends_count": 2239,
+            "listed_count": 4,
+            "created_at": "Fri May 01 00:15:39 +0000 2009",
+            "favourites_count": 31382,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10655,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "BADFCD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/943092999365496833/F5jtVOom_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/943092999365496833/F5jtVOom_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/36823572/1502837563",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "F2E195",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:41 +0000 2018",
+        "id": 1039959250150346752,
+        "id_str": "1039959250150346752",
+        "text": "Incrivel a capacidade do Sardinha de falar merda.\n\nDitadorzinho enrustido. https://t.co/taGZLQupzw",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/taGZLQupzw",
+                    "expanded_url": "http://diariodonordeste.verdesmares.com.br/mobile/cadernos/nacional/online/no-meu-governo-general-villas-boas-estaria-demitido-e-pegaria-cana-diz-ciro-1.1998527",
+                    "display_url": "diariodonordeste.verdesmares.com.br/mobile/caderno\u2026",
+                    "indices": [
+                        75,
+                        98
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3402669173,
+            "id_str": "3402669173",
+            "name": "Nilo Pe\u00e7anha Santos",
+            "screen_name": "pecanha_nilo",
+            "location": "Uberaba, Minas Gerais",
+            "description": "M\u00e9dico ortopedista e cirurgi\u00e3o da coluna vertebral.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 134,
+            "friends_count": 466,
+            "listed_count": 8,
+            "created_at": "Tue Aug 04 13:04:28 +0000 2015",
+            "favourites_count": 10327,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 96262,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/761598747352719360/JLMj0l5I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/761598747352719360/JLMj0l5I_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3402669173/1470414268",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:40 +0000 2018",
+        "id": 1039959245670821889,
+        "id_str": "1039959245670821889",
+        "text": "Ciro \u00e9 \u2018pessoa desesperada\u2019, rebate Mour\u00e3o https://t.co/KoYWSHZ6nG",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/KoYWSHZ6nG",
+                    "expanded_url": "https://www.oantagonista.com/?p=112336",
+                    "display_url": "oantagonista.com/?p=112336",
+                    "indices": [
+                        43,
+                        66
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 189248501,
+            "id_str": "189248501",
+            "name": "Leo 1\ufe0f\u20e37\ufe0f\u20e3",
+            "screen_name": "shinobusens",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 379,
+            "friends_count": 97,
+            "listed_count": 6,
+            "created_at": "Fri Sep 10 19:31:22 +0000 2010",
+            "favourites_count": 112401,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 67275,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/862111576731594752/CbKuV87V_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/862111576731594752/CbKuV87V_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/189248501/1532743112",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:39 +0000 2018",
+        "id": 1039959242621501447,
+        "id_str": "1039959242621501447",
+        "text": "@vitor_mathews Olha, como eu acho que o crescimento do Ciro n\u00e3o vai durar e que \u00e9 um n\u00facleo muito espec\u00edfico (esque\u2026 https://t.co/eyN542r321",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "vitor_mathews",
+                    "name": "Chico Bento Mo\u00e7o",
+                    "id": 158068967,
+                    "id_str": "158068967",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/eyN542r321",
+                    "expanded_url": "https://twitter.com/i/web/status/1039959242621501447",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1039952812300541955,
+        "in_reply_to_status_id_str": "1039952812300541955",
+        "in_reply_to_user_id": 158068967,
+        "in_reply_to_user_id_str": "158068967",
+        "in_reply_to_screen_name": "vitor_mathews",
+        "user": {
+            "id": 1014199295766130688,
+            "id_str": "1014199295766130688",
+            "name": "Gabriel Vargas",
+            "screen_name": "GabrielVarga_s",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10,
+            "friends_count": 47,
+            "listed_count": 0,
+            "created_at": "Tue Jul 03 17:28:49 +0000 2018",
+            "favourites_count": 1191,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 541,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1037828966646796295/hG7pbkwE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037828966646796295/hG7pbkwE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1014199295766130688/1532918528",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:38 +0000 2018",
+        "id": 1039959237600919553,
+        "id_str": "1039959237600919553",
+        "text": "@Joao_vancim Mas o que eu to falando \u00e9 que o apelido n veio do ciro, veio dos negros, eles o v\u00eam assim",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Joao_vancim",
+                    "name": "J\u00e3ozin",
+                    "id": 914218079894360065,
+                    "id_str": "914218079894360065",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1039958655930707969,
+        "in_reply_to_status_id_str": "1039958655930707969",
+        "in_reply_to_user_id": 914218079894360065,
+        "in_reply_to_user_id_str": "914218079894360065",
+        "in_reply_to_screen_name": "Joao_vancim",
+        "user": {
+            "id": 752180288055279616,
+            "id_str": "752180288055279616",
+            "name": "vender botinha de grife p lan\u00e7ar candidatura",
+            "screen_name": "kehdoce",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 371,
+            "friends_count": 690,
+            "listed_count": 0,
+            "created_at": "Sun Jul 10 16:38:50 +0000 2016",
+            "favourites_count": 32611,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10806,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1030228547783282688/4goJ96o2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030228547783282688/4goJ96o2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/752180288055279616/1536429133",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:36 +0000 2018",
+        "id": 1039959230911053825,
+        "id_str": "1039959230911053825",
+        "text": "Racho o bico desses analfabeto pol\u00edtico querendo apoiar Ciro Gomes,  acusado de desviar R$ 300 milh\u00f5es, envolvido e\u2026 https://t.co/QO078lpYFk",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/QO078lpYFk",
+                    "expanded_url": "https://twitter.com/i/web/status/1039959230911053825",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 868232317998858240,
+            "id_str": "868232317998858240",
+            "name": "\u239b\u239d $\u20acH\u23a0\u239e",
+            "screen_name": "Sch_neider",
+            "location": "",
+            "description": "Di\u00e1rio de um detento. /FTP",
+            "url": "https://t.co/okyP48kWHQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/okyP48kWHQ",
+                            "expanded_url": "http://instagram.com/schnxidxr/",
+                            "display_url": "instagram.com/schnxidxr/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 244,
+            "friends_count": 125,
+            "listed_count": 0,
+            "created_at": "Fri May 26 22:28:10 +0000 2017",
+            "favourites_count": 1704,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2157,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1035578791505133568/tuhmntgP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035578791505133568/tuhmntgP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/868232317998858240/1529952298",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:35 +0000 2018",
+        "id": 1039959226779660289,
+        "id_str": "1039959226779660289",
+        "text": "Com ciro gomes e pabulo vital fazendo campanha pro bolso... Assim fica facil p ele ora pora",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 281783112,
+            "id_str": "281783112",
+            "name": "JvlimaXXX",
+            "screen_name": "joaozinhoperes",
+            "location": "Londrina",
+            "description": "Aqui n\u00e3o tem relativismo! Eu to certo e voc\u00eas errado.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 207,
+            "friends_count": 248,
+            "listed_count": 0,
+            "created_at": "Wed Apr 13 23:42:41 +0000 2011",
+            "favourites_count": 3402,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10282,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/856292933447954432/zTjcj_4I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/856292933447954432/zTjcj_4I_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/281783112/1488288362",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:34 +0000 2018",
+        "id": 1039959219154378754,
+        "id_str": "1039959219154378754",
+        "text": "Ciro Gomes vai mandar apagar esse tweet https://t.co/DZqSUAzAkY",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/DZqSUAzAkY",
+                    "expanded_url": "https://twitter.com/Petkovic10/status/18886556771?s=19",
+                    "display_url": "twitter.com/Petkovic10/sta\u2026",
+                    "indices": [
+                        40,
+                        63
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4889731497,
+            "id_str": "4889731497",
+            "name": "Disket Rebirth",
+            "screen_name": "DisketDance",
+            "location": "",
+            "description": "\u201cmelhores piadas do Twitter\u201d\u2014Tang\n\u201cDitto ou n\u00e3o Ditto\u201d\u2014Mays\n\u201cPiadas infames ou dinheiro de volta\u201d\u2014LK\n\u201cMelhores pessoas desta rede\u201d\u2014Patty\n\u201cAlguma coisa\u201d\u2014Yasmin",
+            "url": "https://t.co/y3cWjfKT8o",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/y3cWjfKT8o",
+                            "expanded_url": "http://curiouscat.me/DisketDance2",
+                            "display_url": "curiouscat.me/DisketDance2",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1110,
+            "friends_count": 521,
+            "listed_count": 22,
+            "created_at": "Mon Feb 08 21:01:02 +0000 2016",
+            "favourites_count": 7153,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 61739,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1028090290979176448/UU13hjgz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028090290979176448/UU13hjgz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4889731497/1460995494",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 18886556771,
+        "quoted_status_id_str": "18886556771",
+        "quoted_status": {
+            "created_at": "Mon Jul 19 03:34:12 +0000 2010",
+            "id": 18886556771,
+            "id_str": "18886556771",
+            "text": "Animo galera tudo vai melhorar depois da copa 2014",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "pt",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 77848619,
+                "id_str": "77848619",
+                "name": "Petkovic Oficial",
+                "screen_name": "Petkovic10",
+                "location": "Brasil",
+                "description": "Soccer player from Serbia, the best foreign player ever in Brasil",
+                "url": "http://t.co/NIpi1rFlt3",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NIpi1rFlt3",
+                                "expanded_url": "http://www.petkovic10.com",
+                                "display_url": "petkovic10.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 310139,
+                "friends_count": 177,
+                "listed_count": 2952,
+                "created_at": "Sun Sep 27 22:16:40 +0000 2009",
+                "favourites_count": 10,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 802,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/959159923627188228/qd2JahyH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/959159923627188228/qd2JahyH_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/77848619/1517414775",
+                "profile_link_color": "967233",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EDE7BE",
+                "profile_text_color": "212121",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 194986,
+            "favorite_count": 72224,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "pt"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:30 +0000 2018",
+        "id": 1039959203002167297,
+        "id_str": "1039959203002167297",
+        "text": "Se Bolsonaro ganhar, choro e saio da pol\u00edtica, diz Ciro Gomes em\u00a0sabatina https://t.co/WhPM02hPkK https://t.co/BNXttZ3M16",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/WhPM02hPkK",
+                    "expanded_url": "http://www.paraibaemminuto.com.br/2018/09/12/se-bolsonaro-ganhar-choro-e-saio-da-politica-diz-ciro-gomes-em-sabatina/",
+                    "display_url": "paraibaemminuto.com.br/2018/09/12/se-\u2026",
+                    "indices": [
+                        74,
+                        97
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1039959200988844033,
+                    "id_str": "1039959200988844033",
+                    "indices": [
+                        98,
+                        121
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dm6tYiPW0AEJBIm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dm6tYiPW0AEJBIm.jpg",
+                    "url": "https://t.co/BNXttZ3M16",
+                    "display_url": "pic.twitter.com/BNXttZ3M16",
+                    "expanded_url": "https://twitter.com/hudsonpb/status/1039959203002167297/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 435,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 782,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 782,
+                            "h": 500,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1039959200988844033,
+                    "id_str": "1039959200988844033",
+                    "indices": [
+                        98,
+                        121
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dm6tYiPW0AEJBIm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dm6tYiPW0AEJBIm.jpg",
+                    "url": "https://t.co/BNXttZ3M16",
+                    "display_url": "pic.twitter.com/BNXttZ3M16",
+                    "expanded_url": "https://twitter.com/hudsonpb/status/1039959203002167297/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 435,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 782,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 782,
+                            "h": 500,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28706229,
+            "id_str": "28706229",
+            "name": "Hudson Almeida",
+            "screen_name": "hudsonpb",
+            "location": "Terra do Sol, Paraiba",
+            "description": "Mais Paraibano que Paulista, Verdadeiro, Sem papas na Lingu\u00e1\nSite: https://t.co/fUmrXJovpS\ninstagram: https://t.co/AzwuO89qBp",
+            "url": "https://t.co/fUmrXJovpS",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fUmrXJovpS",
+                            "expanded_url": "http://www.paraibaemminuto.com.br",
+                            "display_url": "paraibaemminuto.com.br",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fUmrXJovpS",
+                            "expanded_url": "http://www.paraibaemminuto.com.br",
+                            "display_url": "paraibaemminuto.com.br",
+                            "indices": [
+                                67,
+                                90
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/AzwuO89qBp",
+                            "expanded_url": "https://www.instagram.com/paraiba_em_minuto/",
+                            "display_url": "instagram.com/paraiba_em_min\u2026",
+                            "indices": [
+                                102,
+                                125
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 576,
+            "friends_count": 1012,
+            "listed_count": 7,
+            "created_at": "Sat Apr 04 01:17:33 +0000 2009",
+            "favourites_count": 718,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 40030,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/492739643511545857/pTZaEQf7_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/492739643511545857/pTZaEQf7_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28706229/1476330645",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:29 +0000 2018",
+        "id": 1039959200137457664,
+        "id_str": "1039959200137457664",
+        "text": "Pesquisa: Bolsonaro tem mais que o dobro de Ciro e Marina https://t.co/hrC96mclhC https://t.co/X4gLzd41sC",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/hrC96mclhC",
+                    "expanded_url": "https://buff.ly/2QoTxhu",
+                    "display_url": "buff.ly/2QoTxhu",
+                    "indices": [
+                        58,
+                        81
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1039959197792841728,
+                    "id_str": "1039959197792841728",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dm6tYWVXsAABagT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dm6tYWVXsAABagT.jpg",
+                    "url": "https://t.co/X4gLzd41sC",
+                    "display_url": "pic.twitter.com/X4gLzd41sC",
+                    "expanded_url": "https://twitter.com/nenoticias/status/1039959200137457664/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1160,
+                            "h": 730,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 428,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1160,
+                            "h": 730,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1039959197792841728,
+                    "id_str": "1039959197792841728",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dm6tYWVXsAABagT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dm6tYWVXsAABagT.jpg",
+                    "url": "https://t.co/X4gLzd41sC",
+                    "display_url": "pic.twitter.com/X4gLzd41sC",
+                    "expanded_url": "https://twitter.com/nenoticias/status/1039959200137457664/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1160,
+                            "h": 730,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 428,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1160,
+                            "h": 730,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 29148889,
+            "id_str": "29148889",
+            "name": "NE Not\u00edcias",
+            "screen_name": "nenoticias",
+            "location": "Sergipe, Brasil",
+            "description": "Leia hoje as not\u00edcias de amanh\u00e3.",
+            "url": "http://t.co/rNyGAXWPlv",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/rNyGAXWPlv",
+                            "expanded_url": "http://nenoticias.com.br",
+                            "display_url": "nenoticias.com.br",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15953,
+            "friends_count": 1,
+            "listed_count": 139,
+            "created_at": "Mon Apr 06 05:13:31 +0000 2009",
+            "favourites_count": 171,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 34121,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/124016664/ne_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/124016664/ne_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29148889/1404131273",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:25 +0000 2018",
+        "id": 1039959184400441345,
+        "id_str": "1039959184400441345",
+        "text": "Para quem for votar: \nCiro 12, ap\u00f3s 12:00\nHaddad 13, ap\u00f3s 13:00\nBolsonaro 17, ap\u00f3s 17:00.\n\nRepassem\u2026 https://t.co/nQ4xTO9KLR",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/nQ4xTO9KLR",
+                    "expanded_url": "https://twitter.com/i/web/status/1039959184400441345",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        101,
+                        124
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2480273175,
+            "id_str": "2480273175",
+            "name": "Alma (S\u00f3 a URSAL na causa)",
+            "screen_name": "AlmaLivre5",
+            "location": "Brasil",
+            "description": "Uma Alma livre... Bem humorada e ir\u00f4nica.Produtora Musical, legender e sem paci\u00eancia alguma pra gente homof\u00f3bica, racista, machista e ignorantes em geral.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 639,
+            "friends_count": 533,
+            "listed_count": 7,
+            "created_at": "Sun Apr 13 01:25:59 +0000 2014",
+            "favourites_count": 8487,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4754,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022234095609421824/4qz_JEWC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022234095609421824/4qz_JEWC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2480273175/1493999866",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:25 +0000 2018",
+        "id": 1039959183725084672,
+        "id_str": "1039959183725084672",
+        "text": "@JulioCesarTeori @drikanunes2 @folha FAKENEWS. Ciro n\u00e3o responde a nenhum processo civil ou penal; Responde process\u2026 https://t.co/HXEKHAIJg7",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JulioCesarTeori",
+                    "name": "Julio Cesar Teori",
+                    "id": 406634038,
+                    "id_str": "406634038",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "drikanunes2",
+                    "name": "adriana Nunes",
+                    "id": 173022970,
+                    "id_str": "173022970",
+                    "indices": [
+                        17,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "folha",
+                    "name": "Folha de S.Paulo",
+                    "id": 14594813,
+                    "id_str": "14594813",
+                    "indices": [
+                        30,
+                        36
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/HXEKHAIJg7",
+                    "expanded_url": "https://twitter.com/i/web/status/1039959183725084672",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1039950953074577409,
+        "in_reply_to_status_id_str": "1039950953074577409",
+        "in_reply_to_user_id": 406634038,
+        "in_reply_to_user_id_str": "406634038",
+        "in_reply_to_screen_name": "JulioCesarTeori",
+        "user": {
+            "id": 49017242,
+            "id_str": "49017242",
+            "name": "Alexandre Radaelli",
+            "screen_name": "Hawkm00n269",
+            "location": "",
+            "description": "The most important thing in communication is hearing what isn't said. RTs are not endorsements.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 952,
+            "friends_count": 207,
+            "listed_count": 3,
+            "created_at": "Sat Jun 20 14:24:37 +0000 2009",
+            "favourites_count": 4089,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1591,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "89C9FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1036711040648716289/OO7i_aS-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036711040648716289/OO7i_aS-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/49017242/1536504850",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "78C0A8",
+            "profile_text_color": "5E412F",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:23 +0000 2018",
+        "id": 1039959177060335617,
+        "id_str": "1039959177060335617",
+        "text": "eu e meus primos combinando de votar no haddad s\u00f3 pra tirar o Ciro do segundo turno j\u00e1 que o bolsinario j\u00e1 t\u00e1 no segundo turno",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 844239014009999360,
+            "id_str": "844239014009999360",
+            "name": "igor",
+            "screen_name": "anarchigor",
+            "location": "Brasil",
+            "description": "ancapist\u00e3o imposto \u00e9 roubo e Foda-se brother",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 54,
+            "friends_count": 42,
+            "listed_count": 1,
+            "created_at": "Tue Mar 21 17:27:20 +0000 2017",
+            "favourites_count": 719,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1271,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1036374164536524800/FordDcDN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036374164536524800/FordDcDN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/844239014009999360/1533759575",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:21 +0000 2018",
+        "id": 1039959167472156674,
+        "id_str": "1039959167472156674",
+        "text": "Nessa de votar no menos pior, tu acaba escolhendo o pior do piores.\n\nhttps://t.co/JXMJE5NxPd https://t.co/JXMJE5NxPd",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JXMJE5NxPd",
+                    "expanded_url": "https://www.huffpostbrasil.com/2015/03/19/sem-papas-na-lingua-irmaos-cid-e-ciro-gomes-colecionam-momentos_a_21681588/",
+                    "display_url": "huffpostbrasil.com/2015/03/19/sem\u2026",
+                    "indices": [
+                        69,
+                        92
+                    ]
+                },
+                {
+                    "url": "https://t.co/JXMJE5NxPd",
+                    "expanded_url": "https://www.huffpostbrasil.com/2015/03/19/sem-papas-na-lingua-irmaos-cid-e-ciro-gomes-colecionam-momentos_a_21681588/",
+                    "display_url": "huffpostbrasil.com/2015/03/19/sem\u2026",
+                    "indices": [
+                        93,
+                        116
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 598068167,
+            "id_str": "598068167",
+            "name": "LUZGROUP",
+            "screen_name": "LUZGROUP",
+            "location": "CAMPINAS",
+            "description": "Tornar, em nossos Clientes Externos, o pensamento estrat\u00e9gico uma cultura pr\u00e1tica.",
+            "url": "http://t.co/UQcDZ2VwnU",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/UQcDZ2VwnU",
+                            "expanded_url": "http://www.luzgroup.com.br",
+                            "display_url": "luzgroup.com.br",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 90,
+            "friends_count": 257,
+            "listed_count": 0,
+            "created_at": "Sun Jun 03 06:10:42 +0000 2012",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7047,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2273829689/l8lmbstorxvrae3tytaq_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2273829689/l8lmbstorxvrae3tytaq_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:17 +0000 2018",
+        "id": 1039959149730312192,
+        "id_str": "1039959149730312192",
+        "text": "#CiroPresidente #ciro #CiroPresidente12 https://t.co/kQXXwi6Hi6",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CiroPresidente",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "text": "ciro",
+                    "indices": [
+                        16,
+                        21
+                    ]
+                },
+                {
+                    "text": "CiroPresidente12",
+                    "indices": [
+                        22,
+                        39
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1039958967609384960,
+                    "id_str": "1039958967609384960",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1039958967609384960/pu/img/Gtkf7SN7yeKS21CD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1039958967609384960/pu/img/Gtkf7SN7yeKS21CD.jpg",
+                    "url": "https://t.co/kQXXwi6Hi6",
+                    "display_url": "pic.twitter.com/kQXXwi6Hi6",
+                    "expanded_url": "https://twitter.com/leogalvao2/status/1039959149730312192/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 752,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 752,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 362,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1039958967609384960,
+                    "id_str": "1039958967609384960",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1039958967609384960/pu/img/Gtkf7SN7yeKS21CD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1039958967609384960/pu/img/Gtkf7SN7yeKS21CD.jpg",
+                    "url": "https://t.co/kQXXwi6Hi6",
+                    "display_url": "pic.twitter.com/kQXXwi6Hi6",
+                    "expanded_url": "https://twitter.com/leogalvao2/status/1039959149730312192/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 752,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 752,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 362,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            47,
+                            25
+                        ],
+                        "duration_millis": 25257,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1039958967609384960/pu/vid/338x180/pc_nsfoq8nY3gRBY.mp4?tag=5"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1039958967609384960/pu/vid/752x400/deS-lbDo2-77mGaR.mp4?tag=5"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1039958967609384960/pu/pl/AZWP0NKTEyNYvZkn.m3u8?tag=5"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 965040750,
+            "id_str": "965040750",
+            "name": "L\u00e9ozinho \ud83e\udd1f\ud83c\udffc",
+            "screen_name": "leogalvao2",
+            "location": "Rio de Janeiro, Brasil",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 71,
+            "friends_count": 170,
+            "listed_count": 0,
+            "created_at": "Thu Nov 22 22:10:29 +0000 2012",
+            "favourites_count": 134,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 228,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/754935210144305152/2-FQgm3G_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/754935210144305152/2-FQgm3G_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/965040750/1529117873",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:17 +0000 2018",
+        "id": 1039959148404912128,
+        "id_str": "1039959148404912128",
+        "text": "Novidade no Blog: Ciro promete deixar a pol\u00edtica caso Bolsonaro seja eleito https://t.co/N98NKicFqV",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/N98NKicFqV",
+                    "expanded_url": "http://eniosinedino.com.br/ciro-promete-deixar-a-politica-caso-bolsonaro-seja-eleito/",
+                    "display_url": "eniosinedino.com.br/ciro-promete-d\u2026",
+                    "indices": [
+                        76,
+                        99
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.eniosinedino.natal.br\" rel=\"nofollow\">blogenio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 27372933,
+            "id_str": "27372933",
+            "name": "Enio Sinedino",
+            "screen_name": "EnioSinedino",
+            "location": "\u00dcT: -5.803882,-35.201866",
+            "description": "Jornalista, radialista, ex- surfista, anti comunista, capitalista e abecedista, com muito orgulho",
+            "url": "https://t.co/b7x0DJOKQm",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/b7x0DJOKQm",
+                            "expanded_url": "http://www.eniosinedino.com.br",
+                            "display_url": "eniosinedino.com.br",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5890,
+            "friends_count": 964,
+            "listed_count": 30,
+            "created_at": "Sun Mar 29 03:38:23 +0000 2009",
+            "favourites_count": 2122,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 12316,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3615024420/ad7df4d3724deb95bbc63c74d793931d_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3615024420/ad7df4d3724deb95bbc63c74d793931d_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/27372933/1449815194",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:13 +0000 2018",
+        "id": 1039959131619123200,
+        "id_str": "1039959131619123200",
+        "text": "Glenn Greenwald entrevista Ciro Gomes - The Intercept Brasil - Em 30 de agosto de 2018 - Elei\u00e7\u00f5es 2018. Dossi\u00ea Ciro\u2026 https://t.co/kjA0xcNmmQ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/kjA0xcNmmQ",
+                    "expanded_url": "https://twitter.com/i/web/status/1039959131619123200",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91211708,
+            "id_str": "91211708",
+            "name": "Bruno Guerre. Moraes",
+            "screen_name": "BrunoSete",
+            "location": "Brazil",
+            "description": "Pesquisador,Empres\u00e1rio,Escritor, Consultor e Aplicador do 'Salto Qu\u00e2ntico Gen\u00e9tico', Inicia\u00e7\u00e3o de Reativa\u00e7\u00e3o.\r\nhttp://t.co/jgA3rKSDLf",
+            "url": "http://t.co/t9PVO7Nier",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/t9PVO7Nier",
+                            "expanded_url": "http://seteantigoshepta.blogspot.com/",
+                            "display_url": "seteantigoshepta.blogspot.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/jgA3rKSDLf",
+                            "expanded_url": "http://osaltociencia.blogspot.com/",
+                            "display_url": "osaltociencia.blogspot.com",
+                            "indices": [
+                                111,
+                                133
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 290,
+            "friends_count": 29,
+            "listed_count": 5,
+            "created_at": "Thu Nov 19 22:44:43 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3925,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875706592020357126/Wwc7QRMU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875706592020357126/Wwc7QRMU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91211708/1503423263",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:10 +0000 2018",
+        "id": 1039959122266005504,
+        "id_str": "1039959122266005504",
+        "text": "@filgmartin Vai piorar, Ciro Gomes durante a sabatina falou que o Brasil n\u00e3o precisa de outra Dilma. \n\n\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "filgmartin",
+                    "name": "Filipe G. Martins",
+                    "id": 896736181198741505,
+                    "id_str": "896736181198741505",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1039955462379241473,
+        "in_reply_to_status_id_str": "1039955462379241473",
+        "in_reply_to_user_id": 896736181198741505,
+        "in_reply_to_user_id_str": "896736181198741505",
+        "in_reply_to_screen_name": "filgmartin",
+        "user": {
+            "id": 832254793297059844,
+            "id_str": "832254793297059844",
+            "name": "Gledson Santos Vieir",
+            "screen_name": "GledsonVieir",
+            "location": "",
+            "description": "Sou apenas um cidad\u00e3o comum que gostada de falar de politica .",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 98,
+            "friends_count": 279,
+            "listed_count": 0,
+            "created_at": "Thu Feb 16 15:46:20 +0000 2017",
+            "favourites_count": 5331,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2080,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/832265201982504961/5hZZGxXl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/832265201982504961/5hZZGxXl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/832254793297059844/1487262446",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:08 +0000 2018",
+        "id": 1039959111755091974,
+        "id_str": "1039959111755091974",
+        "text": "se n\u00e3o fosse o fator K\u00e1tia Abreu eu votava no Ciro lindamente sem nenhum peso na consci\u00eancia por\u00e9m sempre tem aquele empecilho",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4874015981,
+            "id_str": "4874015981",
+            "name": "vitu",
+            "screen_name": "alfonsfk",
+            "location": "",
+            "description": "coca\u00edna",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 166,
+            "friends_count": 344,
+            "listed_count": 8,
+            "created_at": "Wed Feb 03 14:06:03 +0000 2016",
+            "favourites_count": 34111,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 80873,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1038539803908812800/j-5UH87W_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038539803908812800/j-5UH87W_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4874015981/1536719235",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 19:29:08 +0000 2018",
+        "id": 1039959111100772353,
+        "id_str": "1039959111100772353",
+        "text": "@EISENHOWER27 se depender do ciro a corrup\u00e7\u00e3o tem que rolar solta ningu\u00e9m pode investigar",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EISENHOWER27",
+                    "name": "Eisenhower",
+                    "id": 998680836848476160,
+                    "id_str": "998680836848476160",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1039912757699792896,
+        "in_reply_to_status_id_str": "1039912757699792896",
+        "in_reply_to_user_id": 998680836848476160,
+        "in_reply_to_user_id_str": "998680836848476160",
+        "in_reply_to_screen_name": "EISENHOWER27",
+        "user": {
+            "id": 1038560521098878976,
+            "id_str": "1038560521098878976",
+            "name": "todos pra rua brasil",
+            "screen_name": "todosprarua",
+            "location": "",
+            "description": "A LEI \u00c9 PARA TODOS",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 161,
+            "friends_count": 286,
+            "listed_count": 0,
+            "created_at": "Sat Sep 08 22:51:38 +0000 2018",
+            "favourites_count": 21,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 57,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1038581291128639488/IpU4sfj7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038581291128639488/IpU4sfj7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1038560521098878976/1536550265",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    }
+]
