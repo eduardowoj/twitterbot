@@ -1,0 +1,2770 @@
+[
+    {
+        "created_at": "Wed Sep 12 14:12:11 +0000 2018",
+        "id": 1039879350324273152,
+        "id_str": "1039879350324273152",
+        "text": "Bolsonaro dispara no eleitorado masculino\n\nBrasil 12.09.18 11:04 \n\nA pesquisa da Cruso\u00e9 mostra que Jair Bolsonaro d\u2026 https://t.co/gtEGbBpFma",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/gtEGbBpFma",
+                    "expanded_url": "https://twitter.com/i/web/status/1039879350324273152",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 51932941,
+            "id_str": "51932941",
+            "name": "Celso R. Branicio",
+            "screen_name": "celsobranicio",
+            "location": "Brasil - Barretos-SP",
+            "description": "Formado em Educa\u00e7\u00e3o F\u00edsica  pela UnB, graduado em Processamento de Dados, P\u00f3s Graduado em An\u00e1lise de Sistemas (Universidade Federal de Uberl\u00e2ndia-MG)",
+            "url": "http://t.co/JD8IrG3YqI",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/JD8IrG3YqI",
+                            "expanded_url": "http://www.celsorodrigobranicio.blogspot.com",
+                            "display_url": "celsorodrigobranicio.blogspot.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2268,
+            "friends_count": 2042,
+            "listed_count": 20,
+            "created_at": "Mon Jun 29 02:52:19 +0000 2009",
+            "favourites_count": 42,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 109878,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "020812",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/939788286805069824/Mkq_U-GZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/939788286805069824/Mkq_U-GZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/51932941/1448338870",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "020812",
+            "profile_text_color": "2280A9",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:09 +0000 2018",
+        "id": 1039879341654646784,
+        "id_str": "1039879341654646784",
+        "text": "@gabibcaldarelli Quis dizer que ele parece legal mas ele tem personalidade parecida com do bolsonaro",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "gabibcaldarelli",
+                    "name": "gabitten",
+                    "id": 3222726635,
+                    "id_str": "3222726635",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1039872707423338496,
+        "in_reply_to_status_id_str": "1039872707423338496",
+        "in_reply_to_user_id": 3222726635,
+        "in_reply_to_user_id_str": "3222726635",
+        "in_reply_to_screen_name": "gabibcaldarelli",
+        "user": {
+            "id": 63331450,
+            "id_str": "63331450",
+            "name": "tavs \ud83d\udd31",
+            "screen_name": "Tavinhosantos",
+            "location": "",
+            "description": "este twitter \u00e9 95% zoeira",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1231,
+            "friends_count": 733,
+            "listed_count": 3,
+            "created_at": "Thu Aug 06 01:52:21 +0000 2009",
+            "favourites_count": 8295,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 34456,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5850C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1033059547366207489/v7ezSs2i_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033059547366207489/v7ezSs2i_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/63331450/1533786756",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "FF8C00",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:09 +0000 2018",
+        "id": 1039879341314846720,
+        "id_str": "1039879341314846720",
+        "text": "A rejei\u00e7\u00e3o  entre o eleitorado feminino, detectada em diferentes pesquisas de inten\u00e7\u00e3o de voto, agora pode ser medi\u2026 https://t.co/1dDSQeMdeI",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1dDSQeMdeI",
+                    "expanded_url": "https://twitter.com/i/web/status/1039879341314846720",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3095638499,
+            "id_str": "3095638499",
+            "name": "Carlinhos  Carvalho",
+            "screen_name": "carlinhos_de13",
+            "location": "Jaguar\u00e3o - Rs - Br",
+            "description": "",
+            "url": "https://t.co/YaofJhn8Bs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/YaofJhn8Bs",
+                            "expanded_url": "https://www.facebook.com/carlinhosdecarvalho13",
+                            "display_url": "facebook.com/carlinhosdecar\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 231,
+            "friends_count": 592,
+            "listed_count": 2,
+            "created_at": "Wed Mar 18 23:27:45 +0000 2015",
+            "favourites_count": 856,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2135,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/659770260451631105/--CQKSn8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/659770260451631105/--CQKSn8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3095638499/1494467333",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:09 +0000 2018",
+        "id": 1039879338949271554,
+        "id_str": "1039879338949271554",
+        "text": "Pesquisa \" Data Folha \" e Pesquisa \" Danilo Gentili \" sobre Bolsonaro , Elei\u00e7\u00f5es 2018.\n\nhttps://t.co/yr1F1kMGKX",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/yr1F1kMGKX",
+                    "expanded_url": "https://youtu.be/aV7scgslWV8",
+                    "display_url": "youtu.be/aV7scgslWV8",
+                    "indices": [
+                        88,
+                        111
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1088820626,
+            "id_str": "1088820626",
+            "name": "Elson Botelho",
+            "screen_name": "ElsonBotelho",
+            "location": "Porto Belo (SC), Brasil   ANTI-ESQUERDISTA /ANTI-LULA/ANTI PT E COMUNISTAS SOU DIREITA \n#BolsonaroPresidente",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 158,
+            "friends_count": 339,
+            "listed_count": 0,
+            "created_at": "Mon Jan 14 11:59:24 +0000 2013",
+            "favourites_count": 1788,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10815,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1031692286298607616/8UadB704_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031692286298607616/8UadB704_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:07 +0000 2018",
+        "id": 1039879334012567552,
+        "id_str": "1039879334012567552",
+        "text": "https://t.co/Tud0bArzH8 via @jornalodia. Tomara que chegue a 10 milh\u00f5es! Esse anti-mulher n\u00e3o pode ganhar!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jornalodia",
+                    "name": "Jornal O Dia",
+                    "id": 17675497,
+                    "id_str": "17675497",
+                    "indices": [
+                        28,
+                        39
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Tud0bArzH8",
+                    "expanded_url": "https://odia.ig.com.br/eleicoes/2018/09/5574131-grupo-de-mulheres-contra-bolsonaro-no-facebook-passa-de-800-mil-e-ja-organiza-ato-no-rio.html#foto=1",
+                    "display_url": "odia.ig.com.br/eleicoes/2018/\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 100489334,
+            "id_str": "100489334",
+            "name": "RPF",
+            "screen_name": "penaterim",
+            "location": "Rio de Janeiro",
+            "description": "Contabilista",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 197,
+            "friends_count": 59,
+            "listed_count": 10,
+            "created_at": "Wed Dec 30 12:49:25 +0000 2009",
+            "favourites_count": 29713,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 45040,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:06 +0000 2018",
+        "id": 1039879329461796866,
+        "id_str": "1039879329461796866",
+        "text": "[Enem 2018] Qual dos candidatos disse a frase: \u201cEu pego um viado cheio de areia no cu que nem o Jo\u00e3o Doria e encho\u2026 https://t.co/waBJWqSemf",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/waBJWqSemf",
+                    "expanded_url": "https://twitter.com/i/web/status/1039879329461796866",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 421395394,
+            "id_str": "421395394",
+            "name": "Wouldiwas Shookspeared",
+            "screen_name": "_Overdozzy",
+            "location": "INTJ-T",
+            "description": "eu amo todas as pessoas!",
+            "url": "https://t.co/4Ogi5niojX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4Ogi5niojX",
+                            "expanded_url": "https://www.instagram.com/kamma_killer/",
+                            "display_url": "instagram.com/kamma_killer/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 973,
+            "friends_count": 245,
+            "listed_count": 9,
+            "created_at": "Fri Nov 25 22:03:05 +0000 2011",
+            "favourites_count": 2240,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 168851,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1035674005833953280/saO5N_OQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035674005833953280/saO5N_OQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/421395394/1536623526",
+            "profile_link_color": "F50C0C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:06 +0000 2018",
+        "id": 1039879328669032453,
+        "id_str": "1039879328669032453",
+        "text": "Bolsonaro l\u00edder no Ibope - Haddad enfim candidato pelo PT - An\u00e1lise https://t.co/O3oRWO3gb3 via @YouTube",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        96,
+                        104
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/O3oRWO3gb3",
+                    "expanded_url": "https://youtu.be/mCzHt1g5t-8",
+                    "display_url": "youtu.be/mCzHt1g5t-8",
+                    "indices": [
+                        68,
+                        91
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4330805303,
+            "id_str": "4330805303",
+            "name": "Elizabeth Pacheco Al",
+            "screen_name": "bethpachecoalba",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 42,
+            "listed_count": 0,
+            "created_at": "Mon Nov 30 16:51:15 +0000 2015",
+            "favourites_count": 1,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5281,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:05 +0000 2018",
+        "id": 1039879325816901633,
+        "id_str": "1039879325816901633",
+        "text": "\ud83d\udd25 BOLSONARO EXPLODE EM PESQUISA E GLOBO SE DESESPERA! | Jacar\u00e9 de Tanga https://t.co/nkvnsbr1px via @YouTube",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        100,
+                        108
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/nkvnsbr1px",
+                    "expanded_url": "https://youtu.be/X2Au6j2dt9k",
+                    "display_url": "youtu.be/X2Au6j2dt9k",
+                    "indices": [
+                        72,
+                        95
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1340767824,
+            "id_str": "1340767824",
+            "name": "ADEMIR SOUZA",
+            "screen_name": "gremista51",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11,
+            "friends_count": 19,
+            "listed_count": 0,
+            "created_at": "Wed Apr 10 02:13:33 +0000 2013",
+            "favourites_count": 104,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 144,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:05 +0000 2018",
+        "id": 1039879325061922817,
+        "id_str": "1039879325061922817",
+        "text": "Precedente do @STF_oficial sobre bolsonaro gera jurisprud\u00eancia pr\u00f3 pessoas acusadas de racismo e inj\u00faria racial no Brasil. Infelizmente.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "STF_oficial",
+                    "name": "STF",
+                    "id": 68313718,
+                    "id_str": "68313718",
+                    "indices": [
+                        14,
+                        26
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 66179076,
+            "id_str": "66179076",
+            "name": "Monna Bolt",
+            "screen_name": "kezya_95",
+            "location": "Brasil",
+            "description": "Na primeira Olimp\u00edada eu ca\u00ed de bunda, na segunda eu ca\u00ed de cara, e nesta eu ca\u00ed de p\u00e9 (HYPOLITO, Diego. 2016).",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2215,
+            "friends_count": 5001,
+            "listed_count": 35,
+            "created_at": "Sun Aug 16 19:50:00 +0000 2009",
+            "favourites_count": 74772,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 79112,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1EE7F5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/992453590978613248/xmPtwxGK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/992453590978613248/xmPtwxGK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/66179076/1530544931",
+            "profile_link_color": "FF00D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E5507E",
+            "profile_text_color": "5C240A",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:05 +0000 2018",
+        "id": 1039879323266822149,
+        "id_str": "1039879323266822149",
+        "text": "Bolsonaro Presidente! https://t.co/D68VS4mRiQ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/D68VS4mRiQ",
+                    "expanded_url": "https://twitter.com/STF_oficial/status/1039607547005689857",
+                    "display_url": "twitter.com/STF_oficial/st\u2026",
+                    "indices": [
+                        22,
+                        45
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 310273211,
+            "id_str": "310273211",
+            "name": "45 milh\u00f5es C.R.F",
+            "screen_name": "45milhoesCRF",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11,
+            "friends_count": 58,
+            "listed_count": 0,
+            "created_at": "Fri Jun 03 13:36:27 +0000 2011",
+            "favourites_count": 75,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 32,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1038779177795809281/wJIWcp74_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038779177795809281/wJIWcp74_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/310273211/1536499307",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1039607547005689857,
+        "quoted_status_id_str": "1039607547005689857",
+        "quoted_status": {
+            "created_at": "Tue Sep 11 20:12:08 +0000 2018",
+            "id": 1039607547005689857,
+            "id_str": "1039607547005689857",
+            "text": "Por 3 votos a 2, a 1\u00aa Turma do STF rejeitou den\u00fancia contra o deputado federal Jair Bolsonaro, denunciado pela PGR\u2026 https://t.co/HrgcpEf3Jn",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HrgcpEf3Jn",
+                        "expanded_url": "https://twitter.com/i/web/status/1039607547005689857",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 68313718,
+                "id_str": "68313718",
+                "name": "STF",
+                "screen_name": "STF_oficial",
+                "location": "Bras\u00edlia - DF",
+                "description": "O STF \u00e9 o \u00f3rg\u00e3o de c\u00fapula do Poder Judici\u00e1rio, e a ele compete, precipuamente, a guarda da Constitui\u00e7\u00e3o, conforme definido no art. 102 da Constitui\u00e7\u00e3o Federal.",
+                "url": "http://t.co/1XmQ8kaNcy",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/1XmQ8kaNcy",
+                                "expanded_url": "http://www.stf.jus.br",
+                                "display_url": "stf.jus.br",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1622896,
+                "friends_count": 4,
+                "listed_count": 4137,
+                "created_at": "Mon Aug 24 03:21:06 +0000 2009",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 17377,
+                "lang": "pt",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/889971352660320257/yYvFCG3k_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/889971352660320257/yYvFCG3k_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/68313718/1501014889",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4529,
+            "favorite_count": 16489,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "pt"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:05 +0000 2018",
+        "id": 1039879322016927744,
+        "id_str": "1039879322016927744",
+        "text": "T\u00e1 porraa kkkkjj https://t.co/aPXnjuVK4G",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/aPXnjuVK4G",
+                    "expanded_url": "https://www.nsfnews.com/5b8ea4f11d71f/lula-foge-da-prisao-explode-brasilia-mata-bolsonaro-e-se-torna-presidente-do-brasil.html",
+                    "display_url": "nsfnews.com/5b8ea4f11d71f/\u2026",
+                    "indices": [
+                        17,
+                        40
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3383241827,
+            "id_str": "3383241827",
+            "name": "1 9 9 8",
+            "screen_name": "NinoOliveira6",
+            "location": "Planeta Terra",
+            "description": "Um louco de consci\u00eancia tranquila...",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 96,
+            "friends_count": 80,
+            "listed_count": 0,
+            "created_at": "Sun Jul 19 16:05:44 +0000 2015",
+            "favourites_count": 67,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 412,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1010669465950998528/ykzewXHR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010669465950998528/ykzewXHR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3383241827/1529485111",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:02 +0000 2018",
+        "id": 1039879313196244992,
+        "id_str": "1039879313196244992",
+        "text": "Quase 1 milh\u00e3o de mulheres se re\u00fane em grupo on-line contra Bolsonaro https://t.co/zQtnRc2J7m",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/zQtnRc2J7m",
+                    "expanded_url": "https://anisionogueira.wordpress.com/2018/09/12/quase-1-milhao-de-mulheres-se-reune-em-grupo-on-line-contra-bolsonaro/",
+                    "display_url": "anisionogueira.wordpress.com/2018/09/12/qua\u2026",
+                    "indices": [
+                        70,
+                        93
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 211489456,
+            "id_str": "211489456",
+            "name": "#EUSOULULA",
+            "screen_name": "anisionogueira",
+            "location": "Ara\u00e7atuba-SP-BRASIL",
+            "description": "68 anos - Levo a vida com muito bom humor -Petista, c\u00e9tico, cr\u00edtico e inquieto - Sou um dos 66 tuiteiros - Feliz por viver...Amo meus c\u00e3es!.-CORINTIANO!",
+            "url": "https://t.co/nlMZtW8yhZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/nlMZtW8yhZ",
+                            "expanded_url": "http://anisionogueira.wordpress.com",
+                            "display_url": "anisionogueira.wordpress.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 14012,
+            "friends_count": 8227,
+            "listed_count": 148,
+            "created_at": "Wed Nov 03 12:03:28 +0000 2010",
+            "favourites_count": 31539,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 500759,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "4A913C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/982975408802074624/z6EMqTyI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/982975408802074624/z6EMqTyI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/211489456/1349807660",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "F2E195",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:02 +0000 2018",
+        "id": 1039879309882793984,
+        "id_str": "1039879309882793984",
+        "text": "conta de popularidade da datafoice:\n\nlula: 1+1= 7\n\nbolsonaro: 1+1=0.25",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 986238098689245185,
+            "id_str": "986238098689245185",
+            "name": "cada dia uma merda",
+            "screen_name": "pobleminha1",
+            "location": "Constantinopla",
+            "description": "comunismo n\u00e3o funciona",
+            "url": "https://t.co/dq9YOU3PDs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/dq9YOU3PDs",
+                            "expanded_url": "http://AdicioneLinkAqui.com.ru",
+                            "display_url": "AdicioneLinkAqui.com.ru",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 31,
+            "friends_count": 115,
+            "listed_count": 0,
+            "created_at": "Tue Apr 17 13:41:00 +0000 2018",
+            "favourites_count": 159,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 118,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1030584011733778432/mLthYpWZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030584011733778432/mLthYpWZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/986238098689245185/1534545355",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:02 +0000 2018",
+        "id": 1039879309706645505,
+        "id_str": "1039879309706645505",
+        "text": "@Tarik_mohad Isso se chama contra-ataque , depois que divulgaram o grupo anti-bolsonaro correram para por feminista\u2026 https://t.co/CsubX15wwa",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Tarik_mohad",
+                    "name": "Tarik Mohamed\u2721",
+                    "id": 792933149865021441,
+                    "id_str": "792933149865021441",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/CsubX15wwa",
+                    "expanded_url": "https://twitter.com/i/web/status/1039879309706645505",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1039860468834332672,
+        "in_reply_to_status_id_str": "1039860468834332672",
+        "in_reply_to_user_id": 792933149865021441,
+        "in_reply_to_user_id_str": "792933149865021441",
+        "in_reply_to_screen_name": "Tarik_mohad",
+        "user": {
+            "id": 1022524297527607297,
+            "id_str": "1022524297527607297",
+            "name": "Victor alex",
+            "screen_name": "VickDsantos2",
+            "location": "Londrina, Brasil",
+            "description": "LONDRINENSE , AMANTE DE CAF\u00c9",
+            "url": "https://t.co/cX3aOue7TZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/cX3aOue7TZ",
+                            "expanded_url": "http://gab.ai/victorDsantos",
+                            "display_url": "gab.ai/victorDsantos",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 118,
+            "friends_count": 267,
+            "listed_count": 0,
+            "created_at": "Thu Jul 26 16:49:24 +0000 2018",
+            "favourites_count": 155,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 832,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022525428299431937/0CRAzaf4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022525428299431937/0CRAzaf4_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:00 +0000 2018",
+        "id": 1039879302299484160,
+        "id_str": "1039879302299484160",
+        "text": "Bolsonaro e a amea\u00e7a ao TEATRO DAS TESOURAS! https://t.co/YDwtQvxVOv via @YouTube",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        73,
+                        81
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/YDwtQvxVOv",
+                    "expanded_url": "https://youtu.be/bqWUjcbzea8",
+                    "display_url": "youtu.be/bqWUjcbzea8",
+                    "indices": [
+                        45,
+                        68
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 958136477157912578,
+            "id_str": "958136477157912578",
+            "name": "Emmanuel Rog\u00e9rio Couto 17",
+            "screen_name": "engcoutocivil",
+            "location": "",
+            "description": "1\u20e37\u20e3",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 17,
+            "friends_count": 192,
+            "listed_count": 0,
+            "created_at": "Tue Jan 30 00:35:12 +0000 2018",
+            "favourites_count": 2058,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 183,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/987023532948426752/Yq4pnaFw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/987023532948426752/Yq4pnaFw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/958136477157912578/1536508289",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:12:00 +0000 2018",
+        "id": 1039879301695524864,
+        "id_str": "1039879301695524864",
+        "text": "Minhas previs\u00f5es p pr\u00f3xima pesquisa\nBolsonaro 21%\nHaddad 14%\nCiro 12%\nAlckmin 10%\nMarina 8%\nAmo\u00eado 5%\nA. Dias 3%\nMe\u2026 https://t.co/rWsmc673fu",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/rWsmc673fu",
+                    "expanded_url": "https://twitter.com/i/web/status/1039879301695524864",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 329144500,
+            "id_str": "329144500",
+            "name": "Chicotadas Psicol\u00f3gicas - FORJADO NA URSAL",
+            "screen_name": "thiagoknunes",
+            "location": "Floripa",
+            "description": "Penso, logo, esquerda! Bi\u00f3logo/UFSC. Navego em xilemas nobres, retu\u00edto as melhores sinapses num feedback gliconeogenico de equil\u00edbrio pontuado. (R)evolution!",
+            "url": "https://t.co/OsYToeZTGe",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/OsYToeZTGe",
+                            "expanded_url": "http://www.opapoepop.com.br",
+                            "display_url": "opapoepop.com.br",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 281,
+            "friends_count": 326,
+            "listed_count": 0,
+            "created_at": "Mon Jul 04 16:19:43 +0000 2011",
+            "favourites_count": 6052,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4281,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/987153559765561345/3xs1sPjG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/987153559765561345/3xs1sPjG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/329144500/1522163010",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:11:59 +0000 2018",
+        "id": 1039879299074011136,
+        "id_str": "1039879299074011136",
+        "text": "@aapaula_ Alckmin? Acho q se ele ganhar vai ser ruim mas vejo mto pouca gente falando em votar nele, se tiver segun\u2026 https://t.co/hfBvmW32Kj",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "aapaula_",
+                    "name": "Ana Paula L\u00edder Vieira \ud83c\uddfe\ud83c\uddea",
+                    "id": 56240648,
+                    "id_str": "56240648",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/hfBvmW32Kj",
+                    "expanded_url": "https://twitter.com/i/web/status/1039879299074011136",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "in_reply_to_status_id": 1039873718086975490,
+        "in_reply_to_status_id_str": "1039873718086975490",
+        "in_reply_to_user_id": 56240648,
+        "in_reply_to_user_id_str": "56240648",
+        "in_reply_to_screen_name": "aapaula_",
+        "user": {
+            "id": 124503602,
+            "id_str": "124503602",
+            "name": "#SPFC 18% de Chance  \ud83c\uddfe\ud83c\uddea",
+            "screen_name": "SPFC_Metal",
+            "location": "S\u00e3o Paulo-SP",
+            "description": "Metal\nHorror\nCi\u00eancias Mortu\u00e1rias",
+            "url": "https://t.co/zrspTLAeb6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zrspTLAeb6",
+                            "expanded_url": "https://instagram.com/spfc_metal",
+                            "display_url": "instagram.com/spfc_metal",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3638,
+            "friends_count": 877,
+            "listed_count": 22,
+            "created_at": "Fri Mar 19 16:16:58 +0000 2010",
+            "favourites_count": 162,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 103491,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "DE1111",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1039624194537996295/IhUmyYLi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039624194537996295/IhUmyYLi_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/124503602/1517628042",
+            "profile_link_color": "0A0808",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "0F0D0D",
+            "profile_text_color": "EB113C",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:11:59 +0000 2018",
+        "id": 1039879298956570624,
+        "id_str": "1039879298956570624",
+        "text": "O q temos hj?\n- Amoedo - Um \u00f3timo candidato - N\u00e3o ganha\n- Alvaro Dias - Um cadidato muito bom - Mas n\u00e3o ganha\n- Alc\u2026 https://t.co/P2WktD6u4m",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/P2WktD6u4m",
+                    "expanded_url": "https://twitter.com/i/web/status/1039879298956570624",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1039878618099449857,
+        "in_reply_to_status_id_str": "1039878618099449857",
+        "in_reply_to_user_id": 57644825,
+        "in_reply_to_user_id_str": "57644825",
+        "in_reply_to_screen_name": "crime_e_castigo",
+        "user": {
+            "id": 57644825,
+            "id_str": "57644825",
+            "name": "Rodion Rask\u00f3lnikov",
+            "screen_name": "crime_e_castigo",
+            "location": "Brazil",
+            "description": "Sou um rob\u00f4 de direita que escreve tweets conforme algor\u00edtimo pr\u00e9 programado para fortalecer o golpe.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 813,
+            "friends_count": 1228,
+            "listed_count": 5,
+            "created_at": "Fri Jul 17 13:39:19 +0000 2009",
+            "favourites_count": 429,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9007,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/614472778645905408/Jd41g7ce_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/614472778645905408/Jd41g7ce_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/57644825/1511462361",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:11:59 +0000 2018",
+        "id": 1039879297694097408,
+        "id_str": "1039879297694097408",
+        "text": "@EdificJorge Exatamente, pesquisas mentem porque perguntei a toda a minha fam\u00edlia e meus amigos e nenhum deles vota em Bolsonaro.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EdificJorge",
+                    "name": "Jorge Alexandre \ud83c\udde7\ud83c\uddf7\ud83d\udc49\ud83d\udc49",
+                    "id": 752880059560628225,
+                    "id_str": "752880059560628225",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1039715965481705473,
+        "in_reply_to_status_id_str": "1039715965481705473",
+        "in_reply_to_user_id": 752880059560628225,
+        "in_reply_to_user_id_str": "752880059560628225",
+        "in_reply_to_screen_name": "EdificJorge",
+        "user": {
+            "id": 2531159412,
+            "id_str": "2531159412",
+            "name": "choke on a dick",
+            "screen_name": "presleylws",
+            "location": "Wakanda",
+            "description": "normani, harry and louis stan \n\nfan account",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3435,
+            "friends_count": 3211,
+            "listed_count": 19,
+            "created_at": "Thu May 29 00:27:47 +0000 2014",
+            "favourites_count": 37962,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 65397,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1039580814890160134/_lorV7Xl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039580814890160134/_lorV7Xl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2531159412/1535243256",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:11:59 +0000 2018",
+        "id": 1039879296746221569,
+        "id_str": "1039879296746221569",
+        "text": "@professorigor Mais um motivo para votarmos no Bolsonaro",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "professorigor",
+                    "name": "Igor Guedes \ud83c\udde7\ud83c\uddf7",
+                    "id": 52838600,
+                    "id_str": "52838600",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1039483047102607360,
+        "in_reply_to_status_id_str": "1039483047102607360",
+        "in_reply_to_user_id": 52838600,
+        "in_reply_to_user_id_str": "52838600",
+        "in_reply_to_screen_name": "professorigor",
+        "user": {
+            "id": 33573164,
+            "id_str": "33573164",
+            "name": "Vem 2019",
+            "screen_name": "Thiag0_CRF",
+            "location": "",
+            "description": "Aqui s\u00f3 se fala de @Flamengo.\nAcima de tudo Rubro-Negro!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3115,
+            "friends_count": 2862,
+            "listed_count": 15,
+            "created_at": "Mon Apr 20 16:37:01 +0000 2009",
+            "favourites_count": 32394,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 30955,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1036810365504565248/b1fggsjH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036810365504565248/b1fggsjH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33573164/1536227335",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:11:58 +0000 2018",
+        "id": 1039879296133877761,
+        "id_str": "1039879296133877761",
+        "text": "Pesquisa Cruso\u00e9-Empiricus, feita pela Paran\u00e1 Pesquisas:\n1. Jair Bolsonaro - 26,6%\n2. Ciro Gomes - 11,9%\n3. Marina S\u2026 https://t.co/2x1zfnCC2k",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/2x1zfnCC2k",
+                    "expanded_url": "https://twitter.com/i/web/status/1039879296133877761",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 95803466,
+            "id_str": "95803466",
+            "name": "Carlos Caldas",
+            "screen_name": "cfgouvea74",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1912,
+            "friends_count": 2052,
+            "listed_count": 3,
+            "created_at": "Thu Dec 10 02:35:42 +0000 2009",
+            "favourites_count": 5115,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8261,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1026977626060144640/ysav3ucd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026977626060144640/ysav3ucd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/95803466/1418488466",
+            "profile_link_color": "088253",
+            "profile_sidebar_border_color": "D3D2CF",
+            "profile_sidebar_fill_color": "E3E2DE",
+            "profile_text_color": "634047",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:11:54 +0000 2018",
+        "id": 1039879276978479104,
+        "id_str": "1039879276978479104",
+        "text": "Olha o machismo do meu namorado, gente! Ele vota em Bolsonaro e o pensamento \u00e9 retr\u00f3grado. Machistinha de meia tige\u2026 https://t.co/XaXgZKPdEx",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/XaXgZKPdEx",
+                    "expanded_url": "https://twitter.com/i/web/status/1039879276978479104",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1019386532388630529,
+            "id_str": "1019386532388630529",
+            "name": "A Star",
+            "screen_name": "baianeza",
+            "location": "Bahia, Brasil",
+            "description": "My name is Carlos. Twenty four years old.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 679,
+            "friends_count": 46,
+            "listed_count": 0,
+            "created_at": "Wed Jul 18 01:01:03 +0000 2018",
+            "favourites_count": 326,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1579,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1037064472479887362/VGCLVcZT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037064472479887362/VGCLVcZT_normal.jpg",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:11:54 +0000 2018",
+        "id": 1039879275866988544,
+        "id_str": "1039879275866988544",
+        "text": "@limaynardes @PMorenoB @YouTube @FlavioXSid @niceferrante @Jorge42931348 @aruthcao @realTrump4ever @LimaDoc\u2026 https://t.co/cwePon7LNp",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "limaynardes",
+                    "name": "Maynardes ORDEM E PROGRESSO",
+                    "id": 2875857562,
+                    "id_str": "2875857562",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "PMorenoB",
+                    "name": "Paula Moreno",
+                    "id": 55448077,
+                    "id_str": "55448077",
+                    "indices": [
+                        13,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        23,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "FlavioXSid",
+                    "name": "Flavioac",
+                    "id": 820099223509225472,
+                    "id_str": "820099223509225472",
+                    "indices": [
+                        32,
+                        43
+                    ]
+                },
+                {
+                    "screen_name": "niceferrante",
+                    "name": "Eunice Ferrante",
+                    "id": 44036274,
+                    "id_str": "44036274",
+                    "indices": [
+                        44,
+                        57
+                    ]
+                },
+                {
+                    "screen_name": "Jorge42931348",
+                    "name": "Jorge Henrique.",
+                    "id": 855811973652590593,
+                    "id_str": "855811973652590593",
+                    "indices": [
+                        58,
+                        72
+                    ]
+                },
+                {
+                    "screen_name": "aruthcao",
+                    "name": "\ud83d\udc38gab.Arlet\ud83c\udde7\ud83c\uddf71\ufe0f\u20e37\ufe0f\u20e3\ud83c\udde7\ud83c\uddf7BOLSONARO",
+                    "id": 327720880,
+                    "id_str": "327720880",
+                    "indices": [
+                        73,
+                        82
+                    ]
+                },
+                {
+                    "screen_name": "realTrump4ever",
+                    "name": "\ud83d\udd4e realDonaldTrump 4ever ORDEM E PROGRESSO \u2721\ufe0f",
+                    "id": 702878586190110722,
+                    "id_str": "702878586190110722",
+                    "indices": [
+                        83,
+                        98
+                    ]
+                },
+                {
+                    "screen_name": "LimaDoc",
+                    "name": "Militarista pelo voto Bolsonaro/Mourao",
+                    "id": 616644046,
+                    "id_str": "616644046",
+                    "indices": [
+                        99,
+                        107
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/cwePon7LNp",
+                    "expanded_url": "https://twitter.com/i/web/status/1039879275866988544",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        109,
+                        132
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1039807694230695936,
+        "in_reply_to_status_id_str": "1039807694230695936",
+        "in_reply_to_user_id": 941425869809217536,
+        "in_reply_to_user_id_str": "941425869809217536",
+        "in_reply_to_screen_name": "PauloMMMEDEIROS",
+        "user": {
+            "id": 941425869809217536,
+            "id_str": "941425869809217536",
+            "name": "PAULO de MEDEIROS",
+            "screen_name": "PauloMMMEDEIROS",
+            "location": "Caatinga do elefantinho/RN ",
+            "description": "\ud83c\udf35\ud83c\udde7\ud83c\uddf7DEUS, a P\u00c1TRIA e a FAM\u00cdLIA.\ud83c\udf35\ud83c\udde7\ud83c\uddf7Filho do solo gentil da P\u00c1TRIA amada.\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7BRASIL, AME-O OU DEIXE-O. \ud83c\udde7\ud83c\uddf7COMUNISTAF\u00d3BICO\n\ud83c\udde7\ud83c\uddf7 BOLSONARO \ud83d\udcaa 17\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1266,
+            "friends_count": 1239,
+            "listed_count": 4,
+            "created_at": "Thu Dec 14 21:53:13 +0000 2017",
+            "favourites_count": 18336,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10079,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1028737409272487939/1m3_ebye_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028737409272487939/1m3_ebye_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/941425869809217536/1531191729",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:11:53 +0000 2018",
+        "id": 1039879273883082752,
+        "id_str": "1039879273883082752",
+        "text": "Aaaah mas o Bolsonaro \u00e9 culpado por esse bando de retardados mental e social ser manipulado pela esquerda marxista. https://t.co/LfHUYjIYjL",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/LfHUYjIYjL",
+                    "expanded_url": "https://twitter.com/AnaMLopesFotos/status/1039678555943260161",
+                    "display_url": "twitter.com/AnaMLopesFotos\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 700276730,
+            "id_str": "700276730",
+            "name": "Francisco \ud83d\udc49\ud83d\udc49  1\ufe0f\u20e37\ufe0f\u20e3",
+            "screen_name": "fcjuniorfla",
+            "location": "Buenos Aires, Argentina",
+            "description": "Casado / Analista de Sistemas /\nProject Manager / Scrum Master / S\u00f3cio Torcedor do Flamengo /\nDiretoria Consulado Fla Buenos Aires \ud83d\udd34\u26ab",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 60,
+            "friends_count": 142,
+            "listed_count": 2,
+            "created_at": "Tue Jul 17 03:24:58 +0000 2012",
+            "favourites_count": 1382,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1567,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/980712450793369600/1VA-VIat_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/980712450793369600/1VA-VIat_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/700276730/1513141799",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1039678555943260161,
+        "quoted_status_id_str": "1039678555943260161",
+        "quoted_status": {
+            "created_at": "Wed Sep 12 00:54:18 +0000 2018",
+            "id": 1039678555943260161,
+            "id_str": "1039678555943260161",
+            "text": "Esses dias questionei quem poderia vestir uma camiseta do Bolsonaro ou adesivar seu carro em apoio ao candidato, em\u2026 https://t.co/NUPH9Pkxk7",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/NUPH9Pkxk7",
+                        "expanded_url": "https://twitter.com/i/web/status/1039678555943260161",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "pt",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 206943235,
+                "id_str": "206943235",
+                "name": "Ana Maria Lopes",
+                "screen_name": "AnaMLopesFotos",
+                "location": "",
+                "description": "A imagem \u00e9 meu of\u00edcio e minha paix\u00e3o",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5261,
+                "friends_count": 249,
+                "listed_count": 4,
+                "created_at": "Sun Oct 24 03:33:27 +0000 2010",
+                "favourites_count": 13439,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2010,
+                "lang": "pt",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1000864741928120320/9Uf6MED6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000864741928120320/9Uf6MED6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/206943235/1533423918",
+                "profile_link_color": "FADCC8",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 438,
+            "favorite_count": 879,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "pt"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    {
+        "created_at": "Wed Sep 12 14:11:52 +0000 2018",
+        "id": 1039879269558693888,
+        "id_str": "1039879269558693888",
+        "text": "@divino_maximos @dimas_miranda @filgmartin Sim. Obvio e com certeza. \nAs duas candidaturas v\u00e3o antecipar um 2\u00b0 turn\u2026 https://t.co/FsvGXMaGSV",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "divino_maximos",
+                    "name": "Divino Roque",
+                    "id": 819974399164026881,
+                    "id_str": "819974399164026881",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "dimas_miranda",
+                    "name": "Dimas Miranda",
+                    "id": 92936249,
+                    "id_str": "92936249",
+                    "indices": [
+                        16,
+                        30
+                    ]
+                },
+                {
+                    "screen_name": "filgmartin",
+                    "name": "Filipe G. Martins",
+                    "id": 896736181198741505,
+                    "id_str": "896736181198741505",
+                    "indices": [
+                        31,
+                        42
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/FsvGXMaGSV",
+                    "expanded_url": "https://twitter.com/i/web/status/1039879269558693888",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1039877693356105730,
+        "in_reply_to_status_id_str": "1039877693356105730",
+        "in_reply_to_user_id": 819974399164026881,
+        "in_reply_to_user_id_str": "819974399164026881",
+        "in_reply_to_screen_name": "divino_maximos",
+        "user": {
+            "id": 834744883,
+            "id_str": "834744883",
+            "name": "LuleSimon 1\ufe0f\u20e37\ufe0f\u20e3",
+            "screen_name": "lulesimon",
+            "location": "",
+            "description": "\ud83c\udde7\ud83c\uddf7 Brasil acima de tudo, Deus acima de todos",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 552,
+            "friends_count": 466,
+            "listed_count": 2,
+            "created_at": "Thu Sep 20 04:15:38 +0000 2012",
+            "favourites_count": 5082,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 30106,
+            "lang": "pt",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1008605014527488000/MwoD7upT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008605014527488000/MwoD7upT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/834744883/1491802841",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    }
+]
